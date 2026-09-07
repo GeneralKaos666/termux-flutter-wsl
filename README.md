@@ -273,6 +273,14 @@ termux-flutter-wsl/
 - Termux 社群提供 Android userspace、packages 與 X11 生態
 - Flutter / Dart / Skia / Chromium Engine upstream
 
+---
+
+## Support / 支持
+
+If this project saved you some time, you can [buy me a coffee](https://buymeacoffee.com/iml1s).
+
+如果這個專案幫你省了點時間，可以請我喝杯咖啡。
+
 ## 許可證
 
 本專案依照 [GPL-3.0](LICENSE) 授權。
